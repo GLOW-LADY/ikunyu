@@ -543,8 +543,8 @@ section { padding: 88px 0; }
 }
 .mag-cover-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  gap: 10px;
 }
 .mag-cover-item { text-align: center; min-width: 0; }
 .mag-cover-item img {
