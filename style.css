@@ -178,8 +178,8 @@ a { color: inherit; text-decoration: none; }
   position: absolute;
   top: 24px;
   right: 24px;
-  width: 13px;
-  height: 13px;
+  width: 26px;
+  height: 26px;
   color: var(--pink-deep);
 }
 .summary-card .card-icon svg {
