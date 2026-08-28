@@ -493,6 +493,13 @@ section { padding: 88px 0; }
   flex-direction: column;
 }
 .post-card .ph { aspect-ratio: 16/10; border-radius: 0; font-size: 11px; }
+.post-thumb {
+  width: 100%;
+  aspect-ratio: 4/5;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
 .post-card-body { padding: 20px; flex: 1; display: flex; flex-direction: column; }
 .post-card .platform {
   font-size: 11px;
