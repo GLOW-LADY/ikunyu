@@ -314,6 +314,12 @@ section { padding: 88px 0; }
   margin: 0 auto;
 }
 .service-card .ph { height: 220px; border-radius: 0; }
+.service-card .cover-photo {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  display: block;
+}
 .service-body { padding: 32px; }
 .service-body h3 { font-family: var(--serif); font-size: 22px; margin-bottom: 12px; }
 .service-body p { color: var(--ink-soft); font-size: 14px; margin-bottom: 20px; }
